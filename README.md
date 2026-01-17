@@ -63,4 +63,4 @@ A tendência de demanda por produto
 
 Visualização dos dados de tendência de demanda em .csv
 
-[Arquivo em Excel](<treinamento - resultados/data export/single_prediction_results.csv>)
+[Arquivo tabelado](<treinamento - resultados/data export/single_prediction_results.csv>)
