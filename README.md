@@ -45,3 +45,22 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+# Analise final do Treinamento
+## O que foi feito - Resumo:
+
+Treinamento no sagemaker canvas, foi feito o upload do dataset de estoque promocional fornecido pela DiO e ao final, acrescentado ao repositorio uma pasta com os resultados do treinamento por meio de img e acrescentado no readme.
+
+## Descrição
+
+Analisando os resultados do modelo de estoque, apresentou uma média aceitável levando em consideração, os dados não serem refinados para uma aplicação real. E o modelo precisaria treinar mais para melhorar a acuracia.
+
+![alt text](<treinamento - resultados/img/Fase de analise do modelo de estoque.png>)
+
+A tendência de demanda por produto
+
+![alt text](<treinamento - resultados/img/Predicao - demanda por produto.png>)
+
+Visualização dos dados de tendência de demanda em .csv
+
+[text](<treinamento - resultados/data export/single_prediction_results.csv>)
